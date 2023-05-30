@@ -1,3 +1,5 @@
+![repo](https://github.com/pedro-donoso/desafio-branching/assets/68760595/666532f0-140d-4b41-9dc1-873095ca6bb9)
+
 # desafio-branching
 
 ## pasos previos:
@@ -21,7 +23,7 @@
 - Me cambio a la nueva rama creada:
 `git checkout development`
 
--Agrego los archivos a stage y luego genero commit solicitado:
+- Agrego los archivos a stage y luego genero commit solicitado:
 `git commit -m "Al hacer click en la imagen, serán redirigidos a GitHub"`
 
 - Creo cambios en rama de desarrollo
