@@ -1,20 +1,20 @@
-# https://pedro-donoso.github.io/desafio-branching/
+## https://pedro-donoso.github.io/desafio-branching/
 
 ![repo](https://github.com/pedro-donoso/desafio-branching/assets/68760595/666532f0-140d-4b41-9dc1-873095ca6bb9)
 
-# desafio-branching
+## desafio-branching
 
-## pasos previos:
+### pasos previos:
 
-- realicé pull para traer readme desde github
+- Realicé pull para traer readme desde github
 
-- la imagen del desafio no esta dsponible, cargo otra
+- La imagen del desafio no esta dsponible, cargo otra
 
-- edito los estilos
+- Edito los estilos
 
-- compruebo correcta conexión entre vscode y github con commit previos y viendo sitio en vivo mediante plugin live server
+- Compruebo correcta conexión entre vscode y github con commit previos y viendo sitio en vivo mediante plugin live server
 
-## desarrollo:
+### desarrollo:
 
 - Inicio un repositorio mediante el comando de git dentro de la carpeta descargada:
 `git init`
@@ -36,7 +36,7 @@
 
 - Respondo a la pregunta planteada
 
-## pregunta:
+### pregunta:
 
 ¿Existe el link en la imagen en la rama master?
 Originalmente la imagen no estaba disponible en la rama main, descargue otra y trabaje con rama development
