@@ -1,7 +1,9 @@
 # desafio-branching
 
-realicé pull para traer readme desde github
+## pasos previos:
 
-la imagen del desafio no esta dsponible, cargo otra
+- realicé pull para traer readme desde github
 
-edito los estilos 
+- la imagen del desafio no esta dsponible, cargo otra
+
+- edito los estilos 
